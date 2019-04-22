@@ -31,3 +31,4 @@ if __name__ == '__main__':
     for i in range(len(CityCluster)):
         print("Expenses:%.2f" % expenses[i])
         print(CityCluster[i])
+        
