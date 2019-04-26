@@ -20,3 +20,4 @@ y_axis = transformed[:, 1]
 
 plt.scatter(x_axis, y_axis, c = iris_df.target)
 plt.show()
+
